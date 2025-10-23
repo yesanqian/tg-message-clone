@@ -1,7 +1,7 @@
 # tg-message-clone  电报消息克隆器 | 频道克隆|群组克隆 | 破解禁止转发保存下载
 
 
-> **解决问题**: Telegram Restrict saving content | Telegram Content protection | Telegram Protected Content | 有下载限制的 Telegram 频道 | 不允许下载或转发 | Telegram受限制频道 | Telegram受限制群组 | 电报私密频道下载 | 电报私密群组下载 | telegram限制内容 | tg转发限制 | 破解频道/群组不允许转发保存限制 | Telegram禁止下載破解 | telegram图片下载机器人 | 下载受限制纸飞机频道视频 | 下载TG群资源的方式 | Telegram电报不允许转发下载内容 | 下载电报频道里不能保存的影片 | 下载电报频道里不能转发的影片 | 电报群内禁止下载转发保存的视频图片 | 电报群内禁止转发保存的文件 | tg频道的视频禁止转发 | tg频道的视频禁止下载 | telegram电报群禁止转发消息保存视频的解决办法 | 保存Telegram群视频与文件 | 解除telegram电报群组下载视频限制 | 有下载限制的 Telegram 频道保存照片和视频 | Telegram 上禁止复制和转发的内容 | 内容保护 | 下载破解 | 受限内容保存方法 | 视频与图片保存问题 | Telegram被封 | Telegram封号数据丢失 | 电报telegram账号数据备份
+> **解决问题**: Telegram Restrict saving content | Telegram Content protection | Telegram Protected Content | 有下载限制的 Telegram 频道 | 不允许下载或转发 | Telegram受限制频道 | Telegram受限制群组 | 电报私密频道下载 | 电报私密群组下载 | telegram限制内容 | tg转发限制 | 破解频道/群组不允许转发保存限制 | Telegram禁止下載破解 | telegram图片下载机器人 | 下载受限制纸飞机频道视频 | 下载TG群资源的方式 | Telegram电报不允许转发下载内容 | 下载电报频道里不能保存的影片 | 下载电报频道里不能转发的影片 | 电报群内禁止下载转发保存的视频图片 | 电报群内禁止转发保存的文件 | tg频道的视频禁止转发 | tg频道的视频禁止下载 | telegram电报群禁止转发消息保存视频的解决办法 | 保存Telegram群视频与文件 | 解除telegram电报群组下载视频限制 | 有下载限制的 Telegram 频道保存照片和视频 | Telegram 上禁止复制和转发的内容 | 内容保护 | 下载破解 | 受限内容保存方法 | 视频与图片保存问题 | Telegram被封 | Telegram封号数据丢失 | 电报telegram账号数据备份 | 电报telegram批量下载
 
 <div align="center">
   <img src="./images/tg-message-clone-main.png" alt="电报消息克隆器" width="500">
