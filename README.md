@@ -74,7 +74,7 @@
 从以下官方渠道获取最新版本:
 
 - [官方频道](https://t.me/tgmessageclone/51) - 获取最新版本
-- [Github 下载]() - 备用下载渠道
+- [Github 下载](https://github.com/yesanqian/tg-message-clone/releases) - 备用下载渠道
 
 ### 开始使用
 
