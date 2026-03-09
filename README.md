@@ -85,6 +85,21 @@
 > 📝 详细的图文使用教程参见 👉 https://t.me/tgmessageclone/54
 
 
+### 📺 详细功能演示与配置教程
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=HWhKXJ-yYxo">
+    <img src="https://img.youtube.com/vi/HWhKXJ-yYxo/maxresdefault.jpg" alt="电报搬运机器人、Telegram 频道群组克隆备份工具 - 视频演示" width="90%" style="width: 90%; max-width: 700px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </a>
+  <br>
+  <p>
+    <b>🚀 5 分钟快速了解：如何高效操作 Telegram 工具来克隆备份频道，转发无法转发的内容，保存无法保存的电报资源，下载禁止下载的资源内容</b>
+  </p>
+  <p>
+    <a href="https://www.youtube.com/watch?v=HWhKXJ-yYxo">▶ 立即观看完整演示</a>
+  </p>
+</div>
+
 
 
 ## 🛠️ 问题解答
