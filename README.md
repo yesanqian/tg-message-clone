@@ -122,3 +122,11 @@
 ## 常见问题 (FAQ) 
 
 持续更新中
+
+
+## 📢 官方声明 / Official Statement
+
+**[电报消息克隆器]** 是由开发者 **yesanqian** 原创并维护的工具项目。
+
+- **唯一官方地址 (Official Site):** https://github.com/yesanqian/tg-message-clone
+- **唯一发布渠道:** 本 GitHub 仓库的 [Releases] 页面。
