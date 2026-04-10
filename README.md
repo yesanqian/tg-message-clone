@@ -123,6 +123,10 @@
 
 持续更新中
 
+## ☕ 支持一下
+如果你发现这个项目对你有帮助，可以请我喝杯咖啡。
+
+[![Crypto Donation](https://img.shields.io/badge/打赏-虚拟货币-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://pay.oxapay.com/13420081)
 
 ## 📢 官方声明 / Official Statement
 
